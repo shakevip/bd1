@@ -99,7 +99,7 @@ img.img_her {
     margin-top: 16px;
 }
 h2.content_cap {
-    font-size: 11px;
+    font-size: 10px;
 }
 img.st19{
     width: 45px;
@@ -123,7 +123,7 @@ img.beau_pic.col-fifth {
     width: 90%;
 }
 .content_dog_cap {
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
 }
 .content_dog_img {
@@ -219,7 +219,7 @@ img.st.st000{
     align-items: center;
     background-color: rgb(102, 185, 185);
     border-radius: 68px;
-    margin: 1rem 3rem;
+    margin: 1rem 2rem;
 }
 .heading{
     display: none;
